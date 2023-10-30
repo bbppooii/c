@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数判断闰年", "函数判断闰年.vcxproj", "{236D6035-627A-435E-B662-BB79484EADCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{236D6035-627A-435E-B662-BB79484EADCA}.Debug|x64.ActiveCfg = Debug|x64
+		{236D6035-627A-435E-B662-BB79484EADCA}.Debug|x64.Build.0 = Debug|x64
+		{236D6035-627A-435E-B662-BB79484EADCA}.Debug|x86.ActiveCfg = Debug|Win32
+		{236D6035-627A-435E-B662-BB79484EADCA}.Debug|x86.Build.0 = Debug|Win32
+		{236D6035-627A-435E-B662-BB79484EADCA}.Release|x64.ActiveCfg = Release|x64
+		{236D6035-627A-435E-B662-BB79484EADCA}.Release|x64.Build.0 = Release|x64
+		{236D6035-627A-435E-B662-BB79484EADCA}.Release|x86.ActiveCfg = Release|Win32
+		{236D6035-627A-435E-B662-BB79484EADCA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A8F4C3D-2562-4008-8B9F-53A177557139}
+	EndGlobalSection
+EndGlobal
