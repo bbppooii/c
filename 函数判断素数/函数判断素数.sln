@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数判断素数", "函数判断素数.vcxproj", "{BF62C675-203D-4F53-83ED-F389938CF73D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF62C675-203D-4F53-83ED-F389938CF73D}.Debug|x64.ActiveCfg = Debug|x64
+		{BF62C675-203D-4F53-83ED-F389938CF73D}.Debug|x64.Build.0 = Debug|x64
+		{BF62C675-203D-4F53-83ED-F389938CF73D}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF62C675-203D-4F53-83ED-F389938CF73D}.Debug|x86.Build.0 = Debug|Win32
+		{BF62C675-203D-4F53-83ED-F389938CF73D}.Release|x64.ActiveCfg = Release|x64
+		{BF62C675-203D-4F53-83ED-F389938CF73D}.Release|x64.Build.0 = Release|x64
+		{BF62C675-203D-4F53-83ED-F389938CF73D}.Release|x86.ActiveCfg = Release|Win32
+		{BF62C675-203D-4F53-83ED-F389938CF73D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6603732-B89B-4EB8-86F0-D621C4CB9EB9}
+	EndGlobalSection
+EndGlobal
