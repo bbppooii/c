@@ -1,0 +1,9 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\数组中两元素的最大乘积\源.cpp(4,20): error C2061: 语法错误: 标识符“vector”
+C:\Users\31173\Desktop\数组中两元素的最大乘积\源.cpp(5,21): error C2065: “nums”: 未声明的标识符
+C:\Users\31173\Desktop\数组中两元素的最大乘积\源.cpp(5,35): error C2065: “nums”: 未声明的标识符
+C:\Users\31173\Desktop\数组中两元素的最大乘积\源.cpp(5,53): error C2065: “nums”: 未声明的标识符
+C:\Users\31173\Desktop\数组中两元素的最大乘积\源.cpp(5,65): error C2065: “greater”: 未声明的标识符
+C:\Users\31173\Desktop\数组中两元素的最大乘积\源.cpp(5,73): error C2059: 语法错误:“>”
+C:\Users\31173\Desktop\数组中两元素的最大乘积\源.cpp(6,17): error C2065: “nums”: 未声明的标识符
+C:\Users\31173\Desktop\数组中两元素的最大乘积\源.cpp(6,33): error C2065: “nums”: 未声明的标识符
